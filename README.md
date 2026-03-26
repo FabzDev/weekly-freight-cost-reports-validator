@@ -1,4 +1,4 @@
-# Weekly Freight Cost Reports Validator 🚚🚛
+# parcel-cost-report-validator 🚚🚛
 
 ### App working videos:  
 - Pass Validations:         https://drive.google.com/file/d/1j8C1UUIuhrbx96wnyqFpkW3fvW_lQXGX/view?usp=drive_link  
